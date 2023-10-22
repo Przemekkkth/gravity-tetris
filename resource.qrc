@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/fonts/juniory.ttf</file>
+        <file>res/music/theme.wav</file>
+        <file>res/sound/spawn.wav</file>
+        <file>res/sound/levelup.wav</file>
+        <file>res/sound/explosion.wav</file>
+    </qresource>
+</RCC>
