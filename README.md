@@ -16,6 +16,7 @@ qmake && make
 ```
 ## Addons
 * [Qt](https://www.qt.io/) - Cross-Platform software for embedded & desktop
+* [Box2D](https://github.com/erincatto/box2d) - physics engine repository
 * Music: Tetris Theme (Korobeiniki)
 * [SFML repo](https://github.com/Krozark/SFML-book/tree/master/04_Physics/Gravitris) - The repository I was based on. Please see them too.
 * [Juniory font](https://www.dafont.com/juniory.font) - dafont website
